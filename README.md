@@ -14,7 +14,7 @@ In this work I was supposed to write this library without STL (or self-written) 
 ### Structure 
 
 - _bin/_  - example, which uses library to take two arguments and make sum or mul opertaion
-- _lib/_ - library realizationl: header and cpp
+- _lib/_ - library realization: header and cpp
 - _tests/_ - gtest folder with tests
 
 ### Tests
